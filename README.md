@@ -1,4 +1,4 @@
-# M5_Forecasting
+# retail-demand-forecasting
 Repository for a solution to the Kaggle's M5 Forecasting Competition using LightGBM. For full detail of the competion please see https://www.kaggle.com/competitions/m5-forecasting-accuracy
 
 ## Competition Background
